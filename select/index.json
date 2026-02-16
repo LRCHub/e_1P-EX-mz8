@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Centimeter",
+  "base_artist": "the peggies",
+  "createdAt": "2026-02-16T09:04:13.083562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Centimeter (Remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_Centimeter_(Remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Centimeter",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/02_Centimeter_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Centimeter",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/03_Centimeter_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) [TV edit]",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/04_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_[TV_edit]_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/05_HAWATARI_NIOKU_CENTI_[2-hundred-million-centimeter-long_blades]_-_TV_edit_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) [TV edit]",
+      "artist": "MAXIMUM THE HORMON",
+      "has_synced": true,
+      "path": "select/06_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_[TV_edit]_MAXIMUM_THE_HORMON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) - feat. ReeK, Shoohey & UN3H)",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/07_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_-_feat._ReeK,_Sh_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+      "artist": "MAXIMUM THE HORMONE",
+      "has_synced": true,
+      "path": "select/08_HAWATARI_NIOKU_CENTI_[2-hundred-million-centimeter-long_blades]_(TV_edit)_MAXIMUM_THE_HORMONE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Centimeter (From \"Rent a Girlfriend: Kanojo, Okarishimasu\")",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/09_Centimeter_(From__Rent_a_Girlfriend__Kanojo,_Okarishimasu_)_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Centimeter",
+      "artist": "seven oops",
+      "has_synced": true,
+      "path": "select/10_Centimeter_seven_oops.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Centimeter",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/11_Centimeter_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) (feat. ReeK, Shoohey & UN3H)",
+      "artist": "Will Stetson feat. ReeK, 周平, UN3H",
+      "has_synced": true,
+      "path": "select/12_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_(feat._ReeK,_Sho_Will_Stetson_feat._ReeK,_周平,_UN3H.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mere Centimeter",
+      "artist": "Omar Rodriguez-Lopez",
+      "has_synced": true,
+      "path": "select/13_Mere_Centimeter_Omar_Rodriguez-Lopez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI [2-hundred‐million‐centimeter‐long blades] (TV edit)",
+      "artist": "マキシマム ザ ホルモン",
+      "has_synced": true,
+      "path": "select/14_HAWATARI_NIOKU_CENTI_[2-hundred‐million‐centimeter‐long_blades]_(TV_edit)_マキシマム_ザ_ホルモン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HAWATARI NIOKU CENTI (2-hundred-million-centimeter-long blades) )",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/15_HAWATARI_NIOKU_CENTI_(2-hundred-million-centimeter-long_blades)_)_Will_Stetson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Centimeter",
+      "artist": "the peggies",
+      "has_synced": false,
+      "path": "select/pl_01_Centimeter_the_peggies.txt"
+    }
+  ]
+}
